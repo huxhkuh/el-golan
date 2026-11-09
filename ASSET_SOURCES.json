@@ -1,0 +1,116 @@
+[
+  {
+    "path": "public/assets/project-01.jpg",
+    "category": "מטבחים",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/%D7%9E%D7%98%D7%91%D7%97-%D7%A1%D7%94%D7%A8%D7%94-2.jpg",
+    "page": "https://el-golan.co.il/%D7%9E%D7%98%D7%91%D7%97%D7%99%D7%9D/"
+  },
+  {
+    "path": "public/assets/project-03.jpg",
+    "category": "מטבחים",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/%D7%9E%D7%98%D7%91%D7%97%D7%99%D7%9D.jpg",
+    "page": "https://el-golan.co.il/%D7%9E%D7%98%D7%91%D7%97%D7%99%D7%9D/"
+  },
+  {
+    "path": "public/assets/project-06.jpg",
+    "category": "מטבחים",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/1124.jpg",
+    "page": "https://el-golan.co.il/%D7%9E%D7%98%D7%91%D7%97%D7%99%D7%9D/"
+  },
+  {
+    "path": "public/assets/project-13.jpg",
+    "category": "מטבחים",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/1134.jpg",
+    "page": "https://el-golan.co.il/%D7%9E%D7%98%D7%91%D7%97%D7%99%D7%9D/"
+  },
+  {
+    "path": "public/assets/project-16.jpg",
+    "category": "מטבחים",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/1137.jpg",
+    "page": "https://el-golan.co.il/%D7%9E%D7%98%D7%91%D7%97%D7%99%D7%9D/"
+  },
+  {
+    "path": "public/assets/project-31.jpg",
+    "category": "מטבחים",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/WA0002.jpg",
+    "page": "https://el-golan.co.il/%D7%9E%D7%98%D7%91%D7%97%D7%99%D7%9D/"
+  },
+  {
+    "path": "public/assets/project-38.jpg",
+    "category": "ארונות-קיר-שידות-וסיפריות",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/%D7%90%D7%A8%D7%95%D7%A0%D7%95%D7%AA-%D7%A7%D7%99%D7%A8-%D7%91%D7%A0%D7%92%D7%A8%D7%95%D7%AA-%D7%A4%D7%A8%D7%98%D7%99%D7%AA.jpg",
+    "page": "https://el-golan.co.il/%D7%90%D7%A8%D7%95%D7%A0%D7%95%D7%AA-%D7%A7%D7%99%D7%A8-%D7%A9%D7%99%D7%93%D7%95%D7%AA-%D7%95%D7%A1%D7%99%D7%A4%D7%A8%D7%99%D7%95%D7%AA/"
+  },
+  {
+    "path": "public/assets/project-41.jpg",
+    "category": "ארונות-קיר-שידות-וסיפריות",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/003.jpg",
+    "page": "https://el-golan.co.il/%D7%90%D7%A8%D7%95%D7%A0%D7%95%D7%AA-%D7%A7%D7%99%D7%A8-%D7%A9%D7%99%D7%93%D7%95%D7%AA-%D7%95%D7%A1%D7%99%D7%A4%D7%A8%D7%99%D7%95%D7%AA/"
+  },
+  {
+    "path": "public/assets/project-42.jpg",
+    "category": "ארונות-קיר-שידות-וסיפריות",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/3-8.jpg",
+    "page": "https://el-golan.co.il/%D7%90%D7%A8%D7%95%D7%A0%D7%95%D7%AA-%D7%A7%D7%99%D7%A8-%D7%A9%D7%99%D7%93%D7%95%D7%AA-%D7%95%D7%A1%D7%99%D7%A4%D7%A8%D7%99%D7%95%D7%AA/"
+  },
+  {
+    "path": "public/assets/project-48.jpg",
+    "category": "ארונות-קיר-שידות-וסיפריות",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/45.jpg",
+    "page": "https://el-golan.co.il/%D7%90%D7%A8%D7%95%D7%A0%D7%95%D7%AA-%D7%A7%D7%99%D7%A8-%D7%A9%D7%99%D7%93%D7%95%D7%AA-%D7%95%D7%A1%D7%99%D7%A4%D7%A8%D7%99%D7%95%D7%AA/"
+  },
+  {
+    "path": "public/assets/project-54.jpg",
+    "category": "ארונות-קיר-שידות-וסיפריות",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/1144.jpg",
+    "page": "https://el-golan.co.il/%D7%90%D7%A8%D7%95%D7%A0%D7%95%D7%AA-%D7%A7%D7%99%D7%A8-%D7%A9%D7%99%D7%93%D7%95%D7%AA-%D7%95%D7%A1%D7%99%D7%A4%D7%A8%D7%99%D7%95%D7%AA/"
+  },
+  {
+    "path": "public/assets/project-59.jpg",
+    "category": "ארונות-קיר-שידות-וסיפריות",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/1205.jpg",
+    "page": "https://el-golan.co.il/%D7%90%D7%A8%D7%95%D7%A0%D7%95%D7%AA-%D7%A7%D7%99%D7%A8-%D7%A9%D7%99%D7%93%D7%95%D7%AA-%D7%95%D7%A1%D7%99%D7%A4%D7%A8%D7%99%D7%95%D7%AA/"
+  },
+  {
+    "path": "public/assets/extra-02.jpg",
+    "category": "דלתות-מעוצבות",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/IMG-20250107-WA0025-1.jpg",
+    "page": "https://el-golan.co.il/%D7%93%D7%9C%D7%AA%D7%95%D7%AA-%D7%9E%D7%A2%D7%95%D7%A6%D7%91%D7%95%D7%AA/"
+  },
+  {
+    "path": "public/assets/extra-03.jpg",
+    "category": "דלתות-מעוצבות",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/01.jpg",
+    "page": "https://el-golan.co.il/%D7%93%D7%9C%D7%AA%D7%95%D7%AA-%D7%9E%D7%A2%D7%95%D7%A6%D7%91%D7%95%D7%AA/"
+  },
+  {
+    "path": "public/assets/extra-04.jpg",
+    "category": "דלתות-מעוצבות",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/02.jpg",
+    "page": "https://el-golan.co.il/%D7%93%D7%9C%D7%AA%D7%95%D7%AA-%D7%9E%D7%A2%D7%95%D7%A6%D7%91%D7%95%D7%AA/"
+  },
+  {
+    "path": "public/assets/extra-05.jpg",
+    "category": "דלתות-מעוצבות",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/03.jpg",
+    "page": "https://el-golan.co.il/%D7%93%D7%9C%D7%AA%D7%95%D7%AA-%D7%9E%D7%A2%D7%95%D7%A6%D7%91%D7%95%D7%AA/"
+  },
+  {
+    "path": "public/assets/extra-06.jpg",
+    "category": "חדרי-אמבטיה",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/IMG_2881.jpg",
+    "page": "https://el-golan.co.il/%D7%97%D7%93%D7%A8%D7%99-%D7%90%D7%9E%D7%91%D7%98%D7%99%D7%94/"
+  },
+  {
+    "path": "public/assets/extra-07.jpg",
+    "category": "חדרי-אמבטיה",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/IMG_2874.jpg",
+    "page": "https://el-golan.co.il/%D7%97%D7%93%D7%A8%D7%99-%D7%90%D7%9E%D7%91%D7%98%D7%99%D7%94/"
+  },
+  {
+    "path": "public/assets/extra-11.jpg",
+    "category": "חדרי-אמבטיה",
+    "source": "https://el-golan.co.il/wp-content/uploads/2016/12/4545.jpg",
+    "page": "https://el-golan.co.il/%D7%97%D7%93%D7%A8%D7%99-%D7%90%D7%9E%D7%91%D7%98%D7%99%D7%94/"
+  }
+]
