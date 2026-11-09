@@ -23,7 +23,7 @@ const works = [
  ['project-38.jpg','ארון קיר בהיר','storage','דלתות בקווים נקיים'],
  ['extra-04.jpg','דלת בשילוב זכוכית','doors','גוון כהה וניגוד של חומרים'],
 ].map(([image,title,category,description],id)=>({id,image,title,category,description}));
-const asset = name => `/assets/${name}`;
+const asset = name => `${import.meta.env.BASE_URL}assets/${name}`;
 function Logo({footer=false}) { return <a href="#home" className={`brand ${footer?'brand-footer':''}`} aria-label="נגריית אל גולן — לראש העמוד"><span>נגריית</span><strong>אל גולן</strong><i/></a> }
 function Photo({name,alt,...props}) {return <img src={asset(name)} alt={alt} {...props}/>}
 export function App() {

@@ -37,3 +37,19 @@ npm run test:sites
 - תמונות ופונט: `public/assets`
 
 שמירת הקוד ב־GitHub אינה מחברת אוטומטית את הדומיין הקיים או משנה את הגדרות האחסון שלו.
+
+## GitHub Pages
+
+GitHub Pages מוגדר לפרסום מתוך ענף `main`, בתיקיית השורש. לכן המאגר כולל גם גרסה בנויה: `index.html` ו־`assets/`.
+
+קובץ ה־HTML לעריכת קוד המקור הוא `app.html`. אין לערוך ידנית את `index.html` או את חבילות ה־JS/CSS שב־`assets/`.
+
+לאחר שינוי הקוד, מריצים:
+
+```bash
+npm run build:pages
+npm run test:pages
+npm run test:sites
+```
+
+יש לשמור ב־commit גם את קבצי הפרסום המעודכנים. GitHub Pages מפרסם אותם אוטומטית בעקבות העדכון לענף `main`. נתיבי הקבצים יחסיים, ולכן האתר מתאים גם לכתובת `/el-golan/` וגם לדומיין נפרד.
